@@ -18,8 +18,17 @@ No carrinho ao preencher o endereço e enviar, manda uma mensagem para o WhatsAp
 ## Algumas Bibliotecas Externas Utilizadas
 
 - [Zustand](https://zustand-demo.pmnd.rs/): Controle de estado global na aplicação.
-- [Async Storage]([link](https://docs.expo.dev/versions/latest/sdk/async-storage/)): Usada para salvar no dispositivo os dados.
-- [Nativewind]([[link](https://www.nativewind.dev/)](https://www.nativewind.dev/)): TailWind para react native.
+- [Async Storage](https://docs.expo.dev/versions/latest/sdk/async-storage/): Usada para salvar no dispositivo os dados.
+- [Nativewind](https://www.nativewind.dev/): TailWind para react native.
 - [Keyboard Aware Scroll View](https://github.com/APSL/react-native-keyboard-aware-scroll-view): Usado para rolagem mais suave ao abrir um input.
 
 
+## Algumas Prints
+
+![Image 1](/assets/appPrints/1.jpg)
+
+![Image 2](/assets/appPrints/2.jpg)
+
+![Image 3](/assets/appPrints/3.jpg)
+
+![Image 4](/assets/appPrints/4.jpg)
